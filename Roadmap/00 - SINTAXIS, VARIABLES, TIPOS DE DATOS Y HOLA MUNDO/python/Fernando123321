@@ -1,0 +1,11 @@
+# https://python.org
+
+#comentario en una linea
+
+"""
+
+
+"""
+
+my_varaible = "mi variable"
+my_variable = "nuevo valor de varaible"
